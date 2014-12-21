@@ -1,9 +1,9 @@
 /* HelloWorld.java
  */
 
-public class HelloWorld
+public class HelloConflicts
 {
 	public static void main(String[] args) {
-		System.out.println("Hello Patrick!");
+		System.out.println("Hello Patrick! Hello Conflicts!");
 	}
 }
